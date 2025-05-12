@@ -1,8 +1,10 @@
-🔗 → [Persian Readme](README_FA.md)
+
 
 <p align="center">
   <img src="cover.png" width="700" alt="Linux Banner">
 </p>
+
+🔗 → [Persian Readme](README_FA.md)
 
 # 💻 100 Basic Linux Commands
 
