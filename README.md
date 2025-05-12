@@ -1,4 +1,4 @@
-🔗 For Persian version of this README → [Click here](README_FA.md)
+🔗 برای راهنمای فارسی اینجا را کلیک کنید → [Click here](README_FA.md)
 
 <p align="center">
   <img src="cover.png" width="700" alt="Linux Banner">
