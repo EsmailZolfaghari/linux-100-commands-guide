@@ -40,7 +40,7 @@
 
 ## 📧 Contact Me
 
-Created with ❤️ by **Esmail Zolfghari**
+Created with ❤️ by **Esmail Zolfaghari**
 
 - Email: esmailprogramer@gmail.com  
 - [Telegram](https://t.me/anon7vip)  
